@@ -24,6 +24,3 @@ npm start
        ├── store                # redux store related files eg. actions, reducers, store
        ├── utils                # utils / service files like fetching data from apis
        └─                       # index.js & App.js
-
-
-## TesT
