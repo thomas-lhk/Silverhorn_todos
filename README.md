@@ -1,4 +1,4 @@
-# SH_Todos
+# Todos App
 Simple Todo App build by React, Redux, Redux-persist
 
 ## Features
